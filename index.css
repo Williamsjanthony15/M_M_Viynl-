@@ -1,15 +1,43 @@
-/* title {
+title {
     font-size: xx-large;
     font-family: 'Playfair Display', serif, red;
-} */
-.home .banner .page-title {
-    font-size: 80px;
-    font-style: italic;
-    font-family: 'Playfair Display', serif, red;
+    text-align: center;
 }
-.hentry .entry-title {
-    font-size: 24px;
-    font-style: italic;
-    font-family: 'Playfair Display', serif, red;
+h1 {
+    font-size: x-large;
+    font: black;
+    padding: 10px;
+}
+li {
+    font-size:
+    font:
+    padding
+    margin
+    outline-width
+    outline-length
+}
+p1 {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+p2 {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h2 {
+    font-size: large;
+    font: ;
+    padding: ;
 }
 
+Picturename {
+    width: ;
+    height: ;
+}
+secondpicturename {
+    width:;
+    height: ;
+}
+* {background-color: black;}
