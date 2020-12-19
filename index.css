@@ -1,0 +1,14 @@
+/* title {
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif, red;
+} */
+.home .banner .page-title {
+    font-size: 80px;
+    font-style: italic;
+    font-family: 'Playfair Display', serif, red;
+}
+.hentry .entry-title {
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Playfair Display', serif, red;
+}
