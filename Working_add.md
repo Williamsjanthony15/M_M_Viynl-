@@ -105,10 +105,25 @@ M & M
 <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search" title="Type in a Category">
 <ul id="myMenu">
 <li><a href="#">Merchandise</a></li>
+  // <li>Shirts</li>
+  // <li>Hats</li>
+  // <li>Bags</li>
+  // <li>Bottles</li>
+  // <li>Wall Decals</li>
+  // <li>Head Bands</li>
+  // <li>Cups</li>
+  // <li>Magnets</li>
+  // <li>Custom Ideas</li>
   <li><a href="#">Designs</a></li>
+   // <li>Coming Soon!</li>
     <li><a href="#">Templates</a></li>
-      <li><a href="#">Materials</a></li>
-        <li><a href="#">Testimonies</a></li>
+       // <li>Disney Characters</li>
+       // <li>NFL</li>
+       // <li>NCAA</li>
+       // <li>Super Heros</li>
+       // <li>Villains</li>
+    <li><a href="#">Testimonies</a></li>
+      // 
 </ul>
 </div>
 <div class="right" style="background-color: ####;">
