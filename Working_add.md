@@ -114,6 +114,9 @@ M & M
   // <li>Cups</li>
   // <li>Magnets</li>
   // <li>Custom Ideas</li>
+  <li><a href="#">Materials</a></li>
+  // <li>Vinyl</li>
+  // <li>
   <li><a href="#">Designs</a></li>
    // <li>Coming Soon!</li>
     <li><a href="#">Templates</a></li>
@@ -123,7 +126,8 @@ M & M
        // <li>Super Heros</li>
        // <li>Villains</li>
     <li><a href="#">Testimonies</a></li>
-      // 
+  // <li>COMING SOON!</li>
+  
 </ul>
 </div>
 <div class="right" style="background-color: ####;">
