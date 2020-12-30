@@ -89,7 +89,7 @@ background-color:pink;
 }
 </style>
 <title>
-M $ M Vinyl and Embrodery 
+M $ M Vinyl and Embroidery 
 </title>
 </head>
 <body>
@@ -97,22 +97,23 @@ M $ M Vinyl and Embrodery
 <h1>
 M & M
 </h1>
-<p> Vinyl and Embrodery </p>
+<h2> Custom Vinyl and Embroidery </h2>
 <nav>
 <div class="row">
 <div class="left" style="background-color: ####;">
 <h2>Menu</h2>
 <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search" title="Type in a Category">
 <ul id="myMenu">
-<li><a href="#">Menu</a></li>
-<li><a href="#">Menu</a></li>
-<li><a href="#">Menu</a></li>
-<li><a href="#">Menu</a></li>
+<li><a href="#">Merchandise</a></li>
+  <li><a href="#">Designs</a></li>
+    <li><a href="#">Templates</a></li>
+      <li><a href="#">Materials</a></li>
+        <li><a href="#">Testimonies</a></li>
 </ul>
 </div>
 <div class="right" style="background-color: ####;">
 <h2>Page Content</h2>
-<p> blah blah blah </p>
+ <p> Our goal is to make your creative thoughts and needs on the product of your choice. The possibilities can go as far as your imagination can take you. </p>
 <p> blah blah blah </p>
 <p> blah blah blah </p>
 </div>
@@ -128,12 +129,18 @@ M & M
 </section>
 </main>
 <footer>
+  <ul>
+    <li><a href="#">Contact Us</a></li>
+      <li><a href="#">FAQ</a></li>
+        <li><a href="#">2020 Site Map</a></li>
+           <li><a href="#">Disclaimer</a></li>
+  </ul>
   <a href="#" class="fa fa-facebook"></a>
   <a href="#" class="fa fa-instagram"></a>
   <a href="#" class="fa fa-pinterst"></a>
   <a href="#" class="fa fa-paypal"></a>
   <a href="#" class="fa fa-venmo"></a>
-2020 Site Map
+
 </footer>
 <script>
 function myFunction() {
